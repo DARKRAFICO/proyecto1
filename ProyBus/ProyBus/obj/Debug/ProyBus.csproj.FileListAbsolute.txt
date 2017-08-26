@@ -1,0 +1,15 @@
+C:\proyecto\LourtecVS\ProyBus\ProyBus\bin\Debug\ProyBus.exe.config
+C:\proyecto\LourtecVS\ProyBus\ProyBus\bin\Debug\ProyBus.exe
+C:\proyecto\LourtecVS\ProyBus\ProyBus\bin\Debug\ProyBus.pdb
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus.csprojResolveAssemblyReference.cache
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\MainWindow.g.cs
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\App.g.cs
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus_MarkupCompile.cache
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus_MarkupCompile.lref
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\MainWindow.baml
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus.g.resources
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus.Properties.Resources.resources
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus.csproj.GenerateResource.Cache
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus.csproj.CoreCompileInputs.cache
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus.exe
+C:\proyecto\LourtecVS\ProyBus\ProyBus\obj\Debug\ProyBus.pdb
