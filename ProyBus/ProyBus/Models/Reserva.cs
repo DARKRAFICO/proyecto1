@@ -14,8 +14,13 @@ namespace ProyBus.Models
 
         public Localizacion Destino
         {
-            get; set;
-        }
+        get {
+                return destino;
+            }
+        set{
+                destino=value;
+            }
+}
 
         public Localizacion Salida
         {
