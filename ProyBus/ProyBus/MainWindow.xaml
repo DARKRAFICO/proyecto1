@@ -18,7 +18,8 @@
                     <Label Content="Fecha"></Label>
                     <ComboBox x:Name="Fecha"></ComboBox>
                     <DatePicker x:Name="DiaViaje"></DatePicker>
-                    <Button Content="Resultados"></Button>
+                    <Button x:Name="Buscar"  Content="Buscar" Click="Button_Click"></Button>
+                    <ListView x:Name="LvResultados"></ListView>
                 </StackPanel>
 
             </TabItem>
